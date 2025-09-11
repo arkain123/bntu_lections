@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/01 - BNTU/10 - ММО/Лекции/01 - Лекция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Лекция"
+            }
+          },
+          {
+            "id": "e94b6f74ca398898",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8971c518e1798af2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f29c9ca2d5945d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2480ef931f214e1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "95201eb04ea54355",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "81f87f2f63efe673",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5573607b984b0f37",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5
+  },
+  "right": {
+    "id": "b732661b7d7002c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "730243a34bbf3d46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e26e64b14a2bbac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Areas/02 - Linux/01 - Основы работы с терминалом/Команда grep.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Команда grep"
+            }
+          },
+          {
+            "id": "e4f34024128fc534",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Areas/02 - Linux/01 - Основы работы с терминалом/Команда grep.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Команда grep"
+            }
+          },
+          {
+            "id": "f50baa5e6b4799a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0c081a6677b04e55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Resources/01 - BNTU/10 - ММО/Лекции/01 - Лекция.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01 - Лекция"
+            }
+          },
+          {
+            "id": "11dbfa29c8f9d093",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c5c65debea6b632b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "051f6df4221b43c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "03 - Resources/01 - BNTU/10 - ММО/Лекции/01 - Лекция.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 01 - Лекция"
+            }
+          },
+          {
+            "id": "aaac1b88c5af7cec",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "aaac1b88c5af7cec",
+  "lastOpenFiles": [
+    "03 - Resources/01 - BNTU/11 - БЖЧ/02 - Лекция.md",
+    "99 - Meta/99 - Image Bunker/Pasted image 20250911030643.png",
+    "03 - Resources/01 - BNTU/Home.md",
+    "03 - Resources/01 - BNTU/10 - ММО/Лекции/01 - Лекция.md",
+    "03 - Resources/01 - BNTU/07 - ПАПС/03 - Лекция.md",
+    "03 - Resources/01 - BNTU/09 - МОПТС/Лекции/01 - Лекция.md",
+    "00 - Maps of context/Homepage.md",
+    "03 - Resources/01 - BNTU/01 - БД/03 - Курсач/План.md",
+    "03 - Resources/01 - BNTU/01 - БД/03 - Курсач/Создание БД.md",
+    "Excalidraw/ряд.md",
+    "Excalidraw/Drawing 2025-09-08 21.34.01.excalidraw.md",
+    "03 - Resources/01 - BNTU/11 - БЖЧ",
+    "99 - Meta/99 - Image Bunker/Pasted image 20250904102752.png",
+    "03 - Resources/01 - BNTU/10 - ММО/Лекции",
+    "03 - Resources/01 - BNTU/10 - ММО",
+    "03 - Resources/01 - BNTU/09 - МОПТС/Лекции",
+    "03 - Resources/01 - BNTU/09 - МОПТС",
+    "Excalidraw/Drawing 2025-09-02 23.15.22.excalidraw.md",
+    "02 - Areas/03 - Серпентология/99 - Схемки/families_scheme.excalidraw.md",
+    "02 - Areas/03 - Серпентология/99 - Схемки/Drawing 2025-01-23 01.30.41.excalidraw.png",
+    "02 - Areas/06 - hoster/20 - Шаблоны ответов/Сайт/6. Медленно работает сайт.md",
+    "02 - Areas/02 - Linux/01 - Командный язык и скрипты Shell/99 - Команды/Команда awk.md",
+    "02 - Areas/05 - HomeLabing/Список конечных узлов.md",
+    "05 - Fleeting/VenCord.md",
+    "03 - Resources/01 - BNTU/08 - РиПОД/03 - Лекция.md",
+    "03 - Resources/01 - BNTU/07 - ПАПС/08 - Лекция.md",
+    "03 - Resources/01 - BNTU/06 - Психология/Дружба (Дебаты).md",
+    "03 - Resources/01 - BNTU/06 - Психология/01 - Лекции/02 - Лекция.md",
+    "03 - Resources/01 - BNTU/05 - МиАКГ/02 - Лабораторные/03 - Лабораторная.md",
+    "03 - Resources/01 - BNTU/05 - МиАКГ/01 - Лекции/08 - Лекция.md",
+    "03 - Resources/01 - BNTU/05 - МиАКГ/01 - Лекции/07 - Лекция.md",
+    "03 - Resources/01 - BNTU/05 - МиАКГ/01 - Лекции/04 - Лекция.md",
+    "03 - Resources/01 - BNTU/05 - МиАКГ/01 - Лекции/03 - Лекция.md",
+    "02 - Areas/06 - hoster/Pasted_images/Pasted image 20250623143602.png",
+    "02 - Areas/06 - hoster/Pasted_images/Pasted image 20250718144556.png",
+    "02 - Areas/06 - hoster/Pasted_images/Pasted image 20250729101447.png",
+    "02 - Areas/06 - hoster/Pasted_images/Pasted image 20250729133444.png",
+    "02 - Areas/06 - hoster/Pasted_images/Pasted image 20250730093330.png",
+    "02 - Areas/06 - hoster/Pasted_images/Pasted image 20250718144722.png",
+    "01 - Projects/05 - ЕБАТЬ КАКОЙ ПЛЕЕР/Майндплан.canvas",
+    "01 - Projects/03 - AviaMare/Взаимодействие на сайте.canvas",
+    "01 - Projects/02 - Avia/Схема классов.canvas",
+    "01 - Projects/02 - Avia/Схема.canvas",
+    "07 - Archives/01 - Dropped Projects/01 - D&D Char-list (Dropped)/Техзад.canvas",
+    "07 - Archives/01 - Dropped Projects/02 - MarePlayer/Исходники/Pasted image 20240612094902.png",
+    "07 - Archives/01 - Dropped Projects/04 - WellMares tg automatization/План.canvas",
+    "07 - Archives/01 - Dropped Projects/02 - MarePlayer/Канвас/Функциональные связи.canvas",
+    "07 - Archives/01 - Dropped Projects/02 - MarePlayer/Канвас/Диаграмма классов.canvas",
+    "07 - Archives/01 - Dropped Projects/02 - MarePlayer/Канвас/Майндплан.canvas",
+    "07 - Archives/01 - Dropped Projects/02 - MarePlayer/Канвас/Отношения окон.canvas",
+    "02 - Areas/06 - hoster/Pasted_images",
+    "02 - Areas/06 - hoster/Excalidraw",
+    "02 - Areas/06 - hoster/99 - Справка",
+    "02 - Areas/06 - hoster/40 - Руководства",
+    "02 - Areas/06 - hoster/30 - Команды"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks",
+    "Notebook Backgrounds",
+    "Daily Note Themes",
+    "Minecraft",
+    "RuneScape"
+  ],
+  "theme": "obsidian"
+}
