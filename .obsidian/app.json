@@ -1,16 +1,3 @@
 {
-  "promptDelete": false,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "99 - Meta/99 - Image Bunker",
-  "alwaysUpdateLinks": true,
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "Letter",
-    "landscape": true,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "showLineNumber": false,
-  "readableLineLength": true,
-  "propertiesInDocument": "visible"
+  "promptDelete": false
 }

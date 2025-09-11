@@ -1,17 +1,5 @@
 [
-  "templater-obsidian",
-  "obsidian-icon-folder",
-  "calendar",
   "obsidian-excalidraw-plugin",
-  "obsidian-completr",
-  "homepage",
-  "obsidian-importer",
-  "url-into-selection",
-  "recent-files-obsidian",
-  "settings-search",
-  "tag-wrangler",
-  "obsidian-text-format",
-  "obsidian-diagrams-net",
-  "digitalgarden",
-  "obsidian-git"
+  "obsidian-git",
+  "digitalgarden"
 ]
